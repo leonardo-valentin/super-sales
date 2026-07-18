@@ -69,7 +69,7 @@ Não existe um cliente dominante que represente risco para o negócio — a base
 
 ## Dashboard
 
-![Dashboard Superstore Sales](dashboard.pdf)
+![Dashboard Superstore Sales](dashboard.png)
 
 ---
 
