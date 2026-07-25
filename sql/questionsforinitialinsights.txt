@@ -1,0 +1,32 @@
+3 categorias:
+
+furniture, office supplies e technology
+
+sales total e qtd de vendas
+
+T: 827455.873	1813
+
+F: 728658.5757	2078
+
+O: 705422.334	5909
+
+total de tudo: 2261536.7827	9800
+
+
+
+Perguntas que pensei de primeira:
+
+1) Qua, regiões mais compram itens, e tem alguma preferencia de categoria?
+
+
+
+2) Nas formas de compra (shipping-methods), existe alguma tendência? Alguma cidade, categoria ou até subcategoria tem preferências por algum motivo?
+
+
+3) Quais subcategorias são as mais vendidas?
+
+
+4) Quais categorias são mais vendidas por ano. E quanto faturou a empresa por ano com sales.
+
+
+5) Perguntas como "quais clientes compram mais vezes?" ou "tem clientes que somam um volume desproporcional de vendas?"
